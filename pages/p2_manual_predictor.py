@@ -1,6 +1,6 @@
-!pip install scikit-learn
-!pip install xgboost 
-!pip install plotly
+pip install scikit-learn
+pip install xgboost 
+pip install plotly
 
 import streamlit as st
 import pandas as pd

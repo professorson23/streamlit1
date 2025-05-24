@@ -1,3 +1,7 @@
+!pip install scikit-learn
+!pip install xgboost 
+!pip install plotly
+
 import time  # to simulate a real time data, time loop
 
 import numpy as np  # np mean, np random
